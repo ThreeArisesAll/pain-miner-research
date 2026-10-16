@@ -1,0 +1,6 @@
+{
+  "subreddits": ["ClaudeAI", "ChatGPTCoding", "cursor", "LocalLLaMA", "MachineLearning", "programming"],
+  "products": [
+    {"name": "example-tool", "queries": ["example-tool install error"], "github_repo": "owner/example-tool"}
+  ]
+}
